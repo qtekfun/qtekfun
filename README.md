@@ -42,6 +42,7 @@ GitOps-managed: branch protection, atomic commits, Renovate version-pinning, pre
 | [`homelab-2026`](https://github.com/qtekfun/homelab-2026) | Self-hosted Docker homelab on Proxmox — Traefik, Authelia, CrowdSec, Nextcloud, Immich, Grafana and more |
 | [`qtekfun.github.io`](https://github.com/qtekfun/qtekfun.github.io) | Personal blog & technical notes — Jekyll + GitHub Pages |
 | [`cv`](https://github.com/qtekfun/cv) | Automated CV — Markdown source built to PDF via Pandoc + WeasyPrint + GitHub Actions |
+| [`TerraformServerlessAppDeployment`](https://github.com/qtekfun/TerraformServerlessAppDeployment) | Serverless word-frequency API on AWS — API Gateway · Lambda · DynamoDB · S3 — deployed with Terraform |
 
 ---
 
