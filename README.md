@@ -9,13 +9,13 @@
 
 ## 🛠 Stack
 
-\```
+```
 Languages      C++23 · Python · Ada95 · Bash · PHP · JS
 Infra          Kubernetes · Docker · Proxmox · AWS · Ansible · Terraform
 CI/CD          Jenkins · GitHub Actions · Spinnaker · Forgejo
 Security       Traefik · Authelia · CrowdSec · WireGuard · Tailscale · mTLS
 Observability  Grafana · Prometheus · Splunk · Kibana
-\```
+```
 
 ---
 
