@@ -50,18 +50,6 @@ GitOps-managed: branch protection, atomic commits, Renovate version-pinning, pre
 
 ## 🔗 Links
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-cmorenomateos-0A66C2?style=flat&logo=linkedin)
-
-](https://linkedin.com/in/cmorenomateos)
-[
-
-![Web](https://img.shields.io/badge/Web-qtekfun.com-00b4d8?style=flat&logo=firefox)
-
-](https://qtekfun.com)
-[
-
-![Codeberg](https://img.shields.io/badge/Codeberg-qtekfun-2185D0?style=flat&logo=codeberg)
-
-](https://codeberg.org/qtekfun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cmorenomateos-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cmorenomateos)
+[![Web](https://img.shields.io/badge/Web-qtekfun.com-00b4d8?style=flat&logo=firefox)](https://qtekfun.com)
+[![Codeberg](https://img.shields.io/badge/Codeberg-qtekfun-2185D0?style=flat&logo=codeberg)](https://codeberg.org/qtekfun)
