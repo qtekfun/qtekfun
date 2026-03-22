@@ -39,12 +39,9 @@ GitOps-managed: branch protection, atomic commits, Renovate version-pinning, pre
 
 | Repo | Description |
 |---|---|
-| [`homelab-2026`](https://github.com/qtekfun/homelab-2026) | Docker mono-repo — full self-hosted stack |
-| [`prov-my-ubuntu`](https://github.com/qtekfun/prov-my-ubuntu) | Ansible playbook — laptop provisioning |
-| [`ansible-servers`](https://github.com/qtekfun/ansible-servers) | Ansible playbook — server baseline config |
-| [`SuperDebloater`](https://github.com/qtekfun/SuperDebloater) | Shell script — system debloat tool |
-| [`TerraformServerlessAppDeployment`](https://github.com/qtekfun/TerraformServerlessAppDeployment) | Terraform — serverless app deployment |
-| [`qtekfun-hugo`](https://github.com/qtekfun/qtekfun-hugo) | Source of [qtekfun.com](https://qtekfun.com) |
+| [`homelab-2026`](https://github.com/qtekfun/homelab-2026) | Self-hosted Docker homelab on Proxmox — Traefik, Authelia, CrowdSec, Nextcloud, Immich, Grafana and more |
+| [`qtekfun.github.io`](https://github.com/qtekfun/qtekfun.github.io) | Personal blog & technical notes — Jekyll + GitHub Pages |
+| [`cv`](https://github.com/qtekfun/cv) | Automated CV — Markdown source built to PDF via Pandoc + WeasyPrint + GitHub Actions |
 
 ---
 
