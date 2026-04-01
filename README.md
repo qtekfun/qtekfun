@@ -45,9 +45,9 @@ GitOps-managed: branch protection, atomic commits, Renovate version-pinning, pre
 ## 🏅 Certifications
  
 [![Introduction to GitOps](https://images.credly.com/size/110x110/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/25432e23-36a9-43cf-b0e1-a3a6ae766dd2/public_url)
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/032a65a3-5db8-4f67-82e3-90fcc2d51e3c/image.png)](https://www.credly.com/badges/1727a9c5-67a6-4054-9e4c-3eecd3e01644/public_url)
-[![Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/image.png)](https://www.credly.com/badges/76024bb2-6a3f-46e4-9651-75c8759dce55/public_url)
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/image.png)](https://www.credly.com/badges/31970baf-4d44-4ee5-9ec5-d12b8ed895a7/public_url)
+[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob)](https://www.credly.com/badges/1727a9c5-67a6-4054-9e4c-3eecd3e01644/public_url)
+[![Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](https://www.credly.com/badges/76024bb2-6a3f-46e4-9651-75c8759dce55/public_url)
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/31970baf-4d44-4ee5-9ec5-d12b8ed895a7/public_url)
  
 ---
  
