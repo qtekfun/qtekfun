@@ -71,3 +71,4 @@ Infra and tooling work: [`TerraformServerlessAppDeployment`](https://github.com/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cmorenomateos-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cmorenomateos)
 [![Web](https://img.shields.io/badge/Web-qtekfun.com-00b4d8?style=flat&logo=firefox)](https://qtekfun.com)
+[![CV](https://img.shields.io/badge/CV-PDF-d62828?style=flat&logo=readme&logoColor=white)](https://github.com/qtekfun/cv/releases/download/latest/cv.pdf)
