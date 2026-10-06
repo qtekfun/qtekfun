@@ -1,7 +1,7 @@
 # Cipriano Moreno · qtekfun
-**AI Engineer · Designing & shipping apps with AI · Engineering Lead**
+**AI Engineer · Apps built with AI · Self-hosted & privacy-first · Engineering Lead**
 
-> I design and ship complete apps with AI coding agents, and I apply 12+ years of mission-critical engineering (Fly-By-Wire, 5G Core, DevOps at scale) so they are tested, secure and maintainable, not just demos.
+> I design and ship complete apps with AI coding agents, for people who want to own their data: self-hosted, offline-first, no tracking. I apply 12+ years of mission-critical engineering (Fly-By-Wire, 5G Core, DevOps at scale) so they are tested, secure and maintainable, not just demos.
 > Currently leading a 24-engineer department at Jungheinrich across Spain, Germany & Austria.
 
 ---
@@ -11,7 +11,16 @@
 - **Spec first.** Every project starts with a written plan (`PLAN.md`, `CLAUDE.md`) that the agents work against.
 - **Tests and CI as guardrails.** AI-written code only counts if it passes the pipeline. UltimateVideoEditor has about 2,000 JVM tests plus native host tests, run in CI.
 - **Honest status.** Each README states what is verified on a real device and what is not.
-- **Privacy by design.** No Google services, no telemetry, and in some apps no network permission at all.
+
+---
+
+## 🔒 Self-hosted & privacy-first
+
+I run my own infrastructure and build apps that respect it.
+
+- **Own your data.** The apps are clients for self-hosted services such as Nextcloud, and work offline.
+- **No Google services, no telemetry.** Some builds ship without the `INTERNET` permission, and I audit permissions and dependencies.
+- **Hardened self-hosting.** Docker on Proxmox behind Traefik, Authelia, CrowdSec and WireGuard/Tailscale, provisioned with Ansible and shipped through CI/CD (see [`homelab-ansible`](https://github.com/qtekfun/homelab-ansible)).
 
 ---
 
